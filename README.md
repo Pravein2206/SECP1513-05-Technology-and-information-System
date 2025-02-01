@@ -39,5 +39,5 @@
 #### Overall, the Technology and Information System course has been an enriching experience, equipping me with both technical knowledge and essential skills needed for my future career. I look forward to applying what I have learned in real-world situations and continuing to explore the field
 
 ### Suggested Improvements
-#### While the course was highly informative, a few improvements could enhance the learning experience. Firstly, more hands-on practical sessions on hardware and networking would be beneficial to strengthen our technical skills. Additionally, incorporating more interactive industry projects would help us apply theoretical knowledge in real-world scenarios.
+#### While the course was highly informative, a few improvements could enhance the learning experience.More hands-on practical sessions on hardware and networking would be beneficial to strengthen our technical skills.
 

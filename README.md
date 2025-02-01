@@ -23,21 +23,33 @@
 - Pertandingan Reka Logo KTDI
 
 ## 🌟 Reflection
-#### Throughout this semester, the Technology and Information System course has provided me with valuable insights into the world of computing, covering topics such as computer software, hardware, networks, and more. This knowledge has enhanced my understanding of how technology functions in various industries.
+Throughout this semester, the Technology and Information System course has provided me with valuable insights into the world of computing, covering topics such as computer software, hardware, networks, and more. This knowledge has enhanced my understanding of how technology functions in various industries.
 
-#### For Assignment 1, we attended an industry talk with Petronas Digital, where I have gained a deeper understanding of the opportunities and expectations in the digital and IT fields particularly through the PETRONAS Digital Young Graduate Programme (YGP).This program stands out as a special opportunity for fresh graduates to gain essential technical and interpersonal skills.
+ For Assignment 1, we attended an industry talk with Petronas Digital, where I have gained a deeper understanding of the opportunities and expectations in the digital and IT fields particularly through the PETRONAS Digital Young Graduate Programme (YGP).This program stands out as a special opportunity for fresh graduates to gain essential technical and interpersonal skills.
 
-#### In Assignment 2, we visited UTM Digital, which allowed us to explore the university’s digital infrastructure. It was fascinating to see how IT services are managed within an educational institution, and I learned how networking and cybersecurity play a crucial role in maintaining digital operations.
+In Assignment 2, we visited UTM Digital, which allowed us to explore the university’s digital infrastructure. It was fascinating to see how IT services are managed within an educational institution, and I learned how networking and cybersecurity play a crucial role in maintaining digital operations.
 
-#### For Assignment 3, we worked on a report about essential skills needed in university and industry. This task helped me by providing me the knowledge on basic skills required  for the work field in future such as proficiency in programming languages like phyton.
+For Assignment 3, we worked on a report about essential skills needed in university and industry. This task helped me by providing me the knowledge on basic skills required  for the work field in future such as proficiency in programming languages like phyton.
 
-#### In Assignment 4, we watched a video and created a newsletter report based on its content. This assignment enhanced my ability to analyze information effectively and present it in a structured and engaging manner.
+In Assignment 4, we watched a video and created a newsletter report based on its content. This assignment enhanced my ability to analyze information effectively and present it in a structured and engaging manner.
 
-#### in Lab session,we learned assembling and dissambling the pc and learned about the pc hardware components.This has given me deeper knowledge about pc system and how it operates.
-#### Lastly,in design Thinking project,we created a product called Smart Window.This design thinking project has helped me alot by enhancing my creativity and problem solving skills.This course has not only deepened my technical knowledge but has also helped me develop crucial soft skills such as teamwork, problem-solving, and communication. Working on group assignments and interacting with industry professionals improved my ability to collaborate effectively and convey my ideas confidently.
+in Lab session,we learned assembling and dissambling the pc and learned about the pc hardware components.This has given me deeper knowledge about pc system and how it operates.
+Lastly,in design Thinking project,we created a product called Smart Window.This design thinking project has helped me alot by enhancing my creativity and problem solving skills.This course has not only deepened my technical knowledge but has also helped me develop crucial soft skills such as teamwork, problem-solving, and communication. Working on group assignments and interacting with industry professionals improved my ability to collaborate effectively and convey my ideas confidently.
 
-#### Overall, the Technology and Information System course has been an enriching experience, equipping me with both technical knowledge and essential skills needed for my future career. I look forward to applying what I have learned in real-world situations and continuing to explore the field
+Overall, the Technology and Information System course has been an enriching experience, equipping me with both technical knowledge and essential skills needed for my future career. I look forward to applying what I have learned in real-world situations and continuing to explore the field
 
-### Suggested Improvements
-#### While the course was highly informative, a few improvements could enhance the learning experience.More hands-on practical sessions on hardware and networking would be beneficial to strengthen our technical skills.
+#### Suggested Improvements
+While the course was highly informative, a few improvements could enhance the learning experience.More hands-on practical sessions on hardware and networking would be beneficial to strengthen our technical skills.
 
+## 🌟 Other Course
+#### Programming Techinque 1
+In Programming Technique, I learned the fundamentals of C++ coding, including  loops, functions, and structered programming. This course helped me develop logical thinking and problem-solving skills, which are essential for future work field. Writing code and debugging programs gave me a deeper understanding of how programming languages work in real-world applications.
+
+#### Discrete Structure
+In Discrete Structure, I worked on mathematical problems related to logic, probability, set theory, and graph theory. This course strengthened my analytical and critical thinking skills, as solving complex problems required structured reasoning and logical deductions.
+
+#### Digital Logic 
+In Digital Logic, I studied basic logic gates, flip-flops, registers, and sequential circuits. This course provided me with a solid foundation in how computers perform operations at the hardware level. Understanding Boolean algebra and circuit design helped me appreciate the fundamental principles behind processors and memory systems.
+
+
+ 

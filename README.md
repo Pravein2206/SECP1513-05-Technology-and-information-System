@@ -19,4 +19,5 @@
  - **LinkedIn**  : https://www.linkedin.com/in/pravein2206
  - **Instagram** : https://www.instagram.com/pravein22/
  - **GitHub**    : https://github.com/Pravein2206
-
+#### Certificate 📜
+- Pertandingan Reka Logo KTDI
